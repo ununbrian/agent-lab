@@ -1,9 +1,4 @@
-因為你係「直接由 GitHub / UI copy 落嚟」，啲 **`bash / Copy code / txt` 標籤係 GitHub UI 注入嘅**，唔係 Markdown 本身，所以變咗垃圾字。
 
-我而家幫你 **還原成 100% 正確、乾淨、可 copy-paste 嘅 README.md**。
-👉 你只需要：**由 `md 到 ` 全選 copy，覆蓋你 README.md 內容。**
-
----
 
 ````md
 # Agent Lab — Project 0 (Playground)
