@@ -1,0 +1,17 @@
+# env / secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+.venv/
+
+# logs (optional: keep local only)
+app/logs/
+
+# mac
+.DS_Store
