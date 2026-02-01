@@ -8,3 +8,5 @@ class AgentState(TypedDict, total=False):
     critique: str
     final: str
     error: Optional[str]
+    attempts: int
+    next_query: str
