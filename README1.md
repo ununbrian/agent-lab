@@ -1,6 +1,4 @@
 
-
-
 # Agent Lab — Project 0 (Playground)
 
 > Goal: Build a runnable, debuggable LangGraph agent skeleton  
