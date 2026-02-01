@@ -61,7 +61,7 @@ agent-lab/
  ├─ scripts/
  ├─ .env                  # local secrets (DO NOT COMMIT)
  └─ .venv/                # local venv (DO NOT COMMIT)
-````
+```
 
 ---
 
