@@ -1,12 +1,14 @@
 from typing import TypedDict, List, Dict, Optional
 
-class AgentState(TypedDict, total=False):
+class AgentState(TypedDict):
     query: str
     plan: str
-    research: List[Dict[str, str]]
+    research: list
     summary: str
     critique: str
-    final: str
-    error: Optional[str]
+    final: str          
+    memory_hit: bool
+    memory_answer: str
+    memory_sources: list
     attempts: int
     next_query: str
